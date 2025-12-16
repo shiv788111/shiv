@@ -49,14 +49,6 @@
 - Protected Routes  
 🔗 Repo:https://github.com/shiv788111/express-jwt-login-signup-api
 
----
-
-### 💳 Razorpay Payment Gateway
-- Order creation
-- Payment verification
-- Invoice generation  
-🔗 Repo: https://github.com/USERNAME/razorpay-payment
-
 
 ---
 
