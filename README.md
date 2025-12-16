@@ -47,7 +47,7 @@
 - Login / Signup
 - JWT Authentication
 - Protected Routes  
-🔗 Repo: https://github.com/USERNAME/auth-project
+🔗 Repo:https://github.com/shiv788111/express-jwt-login-signup-api
 
 ---
 
